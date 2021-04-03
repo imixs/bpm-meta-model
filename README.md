@@ -1,4 +1,4 @@
-# bpm-meta-model
+# The BPM Meta Model
 
 Today, business process management determine the modern business world. Business Processes are the foundation to achieve the business goals of digitization, collaboration  and optimizing technical processes within an organization.
 But unfortunately it often happens that we get stuck or even fail when we try to describe a business process. Most of the time, as we've found, this is because we're not asking the right questions. 
